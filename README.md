@@ -6,7 +6,7 @@ A front end developer passionate about anything computer related from developing
 
 * 🌍  I'm based in Kampala, Uganda
 * ✉️  You can contact me at [njagala.raymond@gmail.com](mailto:njagala.raymond@gmail.com)
-* 🧠  I'm learning HTML, CSS, Javascript and React JS
+* 🧠  Ask me about HTML, CSS, Javascript, React JS, Next JS, TailwindCSS, Mantine.dev, DaisyUI
 * 🤝  I'm open to collaborating on Any project that can further my learning and development into software development *
 * ⚡  I'm into games, specifically FIFA on PS4, contact me any day for a match!
 
