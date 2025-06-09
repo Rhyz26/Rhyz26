@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raymond Njagala 
 
-Front end developer
+Full Stack Developer
 
-A front end developer passionate about anything computer related from developing and designing websites, to collaborating with the different developers, I'm readily available to learn and develop!!  
+A full stack developer passionate about anything computer related from developing and designing websites, to collaborating with the different developers, I'm readily available to learn and develop!!  
 
 * 🌍  I'm based in Kampala, Uganda
 * ✉️  You can contact me at [njagala.raymond@gmail.com](mailto:njagala.raymond@gmail.com)
-* 🧠  Ask me about HTML, CSS, Javascript, React, Python, Vite JS, Next.JS, TailwindCSS, Bootstrap, MaterialUI, Mantine.dev, DaisyUI, Figma
+* 🧠  Ask me about HTML, CSS, Javascript, React.JS,PHP, Laravel, Python, Next.JS, TailwindCSS, Bootstrap, MaterialUI, Mantine.dev, DaisyUI, Figma, MySQL, PostgreSQL, Testing with Jenkins
 * 🤝  I'm open to collaborating on Any project that can further my learning and development into software development *
 * ⚡  I'm into games, specifically FIFA on PS4, contact me any day for a match!
 
