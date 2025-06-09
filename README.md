@@ -6,7 +6,7 @@ A full stack developer passionate about anything computer related from developin
 
 * 🌍  I'm based in Kampala, Uganda
 * ✉️  You can contact me at [njagala.raymond@gmail.com](mailto:njagala.raymond@gmail.com)
-* 🧠  Ask me about HTML, CSS, Javascript, React.JS,PHP, Laravel, Python, Next.JS, TailwindCSS, Bootstrap, MaterialUI, Mantine.dev, DaisyUI, Figma, MySQL, PostgreSQL, Testing with Jenkins
+* 🧠  Ask me about HTML, CSS, Javascript, React.JS,PHP, Laravel, Python, Next.JS, TailwindCSS, Bootstrap, MaterialUI, Mantine.dev, DaisyUI, Figma, NodeJS, Express JS, MySQL, PostgreSQL, Testing with Jenkins
 * 🤝  I'm open to collaborating on Any project that can further my learning and development into software development *
 * ⚡  I'm into games, specifically FIFA on PS4, contact me any day for a match!
 
